@@ -14,3 +14,6 @@ The final results are not the best out there, but it is a good start and can be 
 
 Here's a look at the initial and Final output(Here I have merged the Cat with the style from The Great Wave of Kanagawa)
 ![FinalResult](FinalResult.png)
+
+Here's another example what the style transfer method can achieve. Here I have taken Colloseum(Image 1) as content image and Rain Princess(Image 2) as the style image. The final output can be seen in Image 3. It surely adds a new touch to the colloseum.
+![Colloseum-RainPrincess.png](colloseum-RainPrincess.png)
