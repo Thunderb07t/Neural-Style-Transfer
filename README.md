@@ -13,4 +13,4 @@ Total loss is calculated as the sum of content loss and the style loss.
 The final results are not the best out there, but it is a good start and can be further impproved by tuning thee hyperparameters like layer weights and using some further techniques.
 
 Here's a look at the initial and Final output(Here I have merged the Cat with the style from The Great Wave of Kanagawa)
-![FinalResult](https://raw.githubusercontent.com/Thunderb07t/Neural-Style-Transfer/FinalResult.png)
+![FinalResult](FinalResult.png)
